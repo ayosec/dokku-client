@@ -28,4 +28,4 @@ The address of your Dokku instance is extracted from the repository URL.
 ## Installation
 
     $ sudo wget -O /usr/local/bin/dokku https://github.com/ayosec/dokku-client/raw/master/dokku-client.rb
-    $ sudo chmod + /usr/local/bin/dokku
+    $ sudo chmod +x /usr/local/bin/dokku
